@@ -1,0 +1,29 @@
+*** 1.7 
+	-Minor improvements
+*** 1.6 
+	-Bug fixed
+	-TESTS:
+		-[Improved Vector Conversion (EMF) (Still Bad)]
+*** 1.5 
+	-Load Settings from previous Rendered Picture
+	(Works only with picture created since this version)
+	-Original Size (No Scaled Picture)
+	-Minor improvements
+	-TESTS:
+		-[1st Vector Conversion Attempt (EMF)]
+		-
+		-[Laplacian?]
+		-[Testing New Draw Modes]
+		-[Testing EBlurring]
+*** 1.0
+	-Faster Gabor Filtering
+	-SOBEL Edge detection
+	-BackGround:
+		-Angles By HUE
+		-Angles By Edges Angles
+		-No Strokes: Blurred Source Pic.
+	-No Auto Save
+	-Save As
+	-Hidable/movable panel
+
+
